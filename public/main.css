@@ -1,3 +1,15 @@
 p {
     color: red
 }
+
+body {
+    width: 800px;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px 30px 30px 30px;
+}
