@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jacobhmurphy/weather-now/issues"
   },
-  "homepage": "https://github.com/jacobhmurphy/weather-now#readme"
+  "homepage": "https://github.com/jacobhmurphy/weather-now#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
