@@ -1,0 +1,19 @@
+{
+  "name": "weather-now",
+  "version": "1.0.0",
+  "description": "weather web app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobhmurphy/weather-now.git"
+  },
+  "author": "Jacob Murphy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacobhmurphy/weather-now/issues"
+  },
+  "homepage": "https://github.com/jacobhmurphy/weather-now#readme"
+}
