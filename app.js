@@ -1,8 +1,14 @@
 const express = require('express')
 const app = express()
- 
+
+// setting view engine
+
+app.set('view engine', 'ejs')
+
+// routing: GET and 
+
 app.get('/', function (req, res) {
-  res.send('Hello World!!!')
+  res.render('home.ejs')
 })
  
 app.listen(3000, function() {
